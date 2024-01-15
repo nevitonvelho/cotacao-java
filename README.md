@@ -12,10 +12,6 @@ git clone https://github.com/nevitonvelho/cotacao-java
 
 cd java-cotacao
 
-## Execute a aplicação usando o Maven:
-
-mvn spring-boot:run
-
 ### A cotação do dólar será exibida no console conforme o agendamento.
 
 # Configuração Adicional
